@@ -1,5 +1,7 @@
 # vue-travis-example
 
+[![Build Status](https://travis-ci.org/jamesdube/vue-travis-example.svg?branch=master)](https://travis-ci.org/jamesdube/vue-travis-example)
+
 ## Project setup
 ```
 yarn install
